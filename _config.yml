@@ -6,8 +6,8 @@ description: "Tatubola é um podcast para voce que quer sair do buraco, sempre s
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: tatubolapodcast
-github_username:  italoclone
-facebook_username:  tatubolapodcast
+github_username: italoclone
+facebook_username: tatubolapodcast
 
 # Build settings
 markdown: kramdown

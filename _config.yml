@@ -1,17 +1,17 @@
 # Site settings
-title: Clean Blog
+title: Tatubola
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: tatubolapodcast@gmail.com
+description: "Tatubola é um podcast para voce que quer sair do buraco, sempre sabemos como vai comecar mas nunca como vai terminar!"
 baseurl: "/tatubola"
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: italoclone
+github_username:  italoclone
+facebook_username:  italoclone
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

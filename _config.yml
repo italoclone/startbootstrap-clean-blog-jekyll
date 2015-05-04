@@ -5,9 +5,9 @@ email: tatubolapodcast@gmail.com
 description: "Tatubola é um podcast para voce que quer sair do buraco, sempre sabemos como vai comecar mas nunca como vai terminar!"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: italoclone
+twitter_username: tatubolapodcast
 github_username:  italoclone
-facebook_username:  italoclone
+facebook_username:  tatubolapodcast
 
 # Build settings
 markdown: kramdown

@@ -10,9 +10,9 @@ comments: true
 <p>Bootstrap Player</p>
 
 <audio controls>
-	<source src="http://www.w3schools.com/html/horse.ogg" type="audio/ogg" />
-	<source src="http://www.w3schools.com/html/horse.mp3" type="audio/mpeg" />
-	<a href="http://www.w3schools.com/html/horse.mp3">horse</a>
+	<source src="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3" type="audio/ogg" />
+	<source src="hhttps://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3" type="audio/mpeg" />
+	<a href="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3">horse</a>
 </audio>
 
 

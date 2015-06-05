@@ -7,40 +7,21 @@ header-img: "img/post-bg-06.jpg"
 comments: true
 ---
 
-<p>Bootstrap Player</p>
+<p>Player HTML simples</p>
 
 <audio controls>
 	<source src="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3" type="audio/ogg" />
-	<source src="hhttps://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3" type="audio/mpeg" />
+	<source src="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249010/download/6/file_128kb.m4a" type="audio/mpeg" />
 	<a href="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3">horse</a>
 </audio>
 
 
-
-<audio controls>
-	<source src="http://www.w3schools.com/html/horse.ogg" type="audio/ogg" />
-	<source src="http://www.w3schools.com/html/horse.mp3" type="audio/mpeg" />
-	<a href="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/3/file_128kb.mp3">horse</a>
-</audio>
+<p>Link para download direto</p>
+<a href="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/3/file_128kb.mp3">Download do episódio</a> 
 
 
-<p>HTML5 simples</p>
-
-    <audio controls="controls" src="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3">
-        Your browser does not support the HTML5 Audio element.
-    </audio>
-
-
-
-<p>Link para download</p>
-
-https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/3/file_128kb.mp3
-<p>.</p>
-
-
+<p>Players em Flash</p>
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="650" height="111" id="pcm_player_episode107011"> <param name="movie" value="https://podcastmachine.com/swf/player.swf" /> <param name="allowFullScreen" value="true" /> <param name="allowScriptAccess" value="always" /> <param name="quality" value="high" /> <param name="wmode" value="transparent" /> <param name="flashvars" value="file=https://podcastmachine.com/podcasts/18465/episodes/107011.json&amp;width=650&amp;height=111&amp;skin=https://podcastmachine.com/swf/skin_pcm1.swf&amp;fullscreen=true&amp;bgcolor=#000000&amp;playlist=bottom&amp;subscribebutton=false&amp;downloadbutton=false&amp;playlistcolumns=1&amp;playlistrows=1&amp;autostart=false&amp;playlistsize=80" /> <embed src="https://podcastmachine.com/swf/player.swf" allowFullScreen="true" allowScriptAccess="always" quality="high" width="650" height="111" wmode="transparent" name="pcm_player_episode107011" type="application/x-shockwave-flash" flashvars="file=https://podcastmachine.com/podcasts/18465/episodes/107011.json&amp;width=650&amp;height=111&amp;skin=https://podcastmachine.com/swf/skin_pcm1.swf&amp;fullscreen=true&amp;bgcolor=#000000&amp;playlist=bottom&amp;subscribebutton=false&amp;downloadbutton=false&amp;playlistcolumns=1&amp;playlistrows=1&amp;autostart=false&amp;playlistsize=80" pluginspage="https://www.macromedia.com/go/getflashplayer" /> </object>
-
-
 
 <p>.</p>
 
@@ -53,9 +34,10 @@ https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/dow
   <param name="flashvars" value="&amp;file=//podcastmachine.com/podcasts/18465/episodes/107011.json&amp;width=300&amp;height=133&amp;skin=//podcastmachine.com/swf/skin_pcm1.swf&amp;fullscreen=true&amp;bgcolor=#000000&amp;playlist=null&amp;playlistsize=300&amp;playlistcolumns=2&amp;autostart=false&amp;subscribebutton=false&amp;downloadbutton=true" />
   <embed src="//podcastmachine.com/swf/player.swf" allowFullScreen="true" allowScriptAccess="always" quality="high" width="300" height="133" wmode="transparent" name="pcm_player_18465" type="application/x-shockwave-flash" flashvars="&amp;file=//podcastmachine.com/podcasts/18465/episodes/107011.json&amp;width=300&amp;height=133&amp;skin=//podcastmachine.com/swf/skin_pcm1.swf&amp;fullscreen=true&amp;bgcolor=#000000&amp;playlist=null&amp;playlistsize=300&amp;playlistcolumns=2&amp;autostart=false&amp;subscribebutton=false&amp;downloadbutton=true" pluginspage="//www.macromedia.com/go/getflashplayer" />
 </object>
-
-
 <p>.</p>
+
+
+
 <h2 class="section-heading">Links</h2>
 
 <a href="http://www.imdb.com/title/tt0106856/" target="_blank">IMDb do filme</a>

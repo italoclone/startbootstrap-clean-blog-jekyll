@@ -23,6 +23,15 @@ comments: true
 	<a href="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/3/file_128kb.mp3">horse</a>
 </audio>
 
+
+<p>HTML5 simples</p>
+
+    <audio controls="controls" src="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3">
+        Your browser does not support the HTML5 Audio element.
+    </audio>
+
+
+
 <p>Link para download</p>
 
 https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/3/file_128kb.mp3

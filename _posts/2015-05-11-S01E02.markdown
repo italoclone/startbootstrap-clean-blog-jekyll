@@ -15,12 +15,12 @@ comments: true
 
 <p>Escutar agora:</p>
 <audio controls>
-	<source src="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3" type="audio/ogg" />
-	<source src="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249010/download/6/file_128kb.m4a" type="audio/mpeg" />
-	<a href="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3">s01e01</a>
+	<source src="https://podcastmachine.com/podcasts/18501/episodes/107203/media_files/249470/download/3/file_128kb.mp3" type="audio/ogg" />
+	<source src="https://podcastmachine.com/podcasts/18501/episodes/107203/media_files/249471/download/3/file_128kb.m4a" type="audio/mpeg" />
+	<a href="https://podcastmachine.com/podcasts/18501/episodes/107203/media_files/249470/download/3/file_128kb.mp3">s01e01</a>
 </audio>
 <p>
-<a href="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/3/file_128kb.mp3">Download do episódio</a> 
+<a href="https://podcastmachine.com/podcasts/18501/episodes/107203/media_files/249470/download/3/file_128kb.mp3">Download do episódio</a> 
 </p>
 
 <h2 class="section-heading">Links</h2>

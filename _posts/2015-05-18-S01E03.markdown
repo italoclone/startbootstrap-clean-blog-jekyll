@@ -34,5 +34,3 @@ comments: true
 		<!--- <li><a href=""  target="_blank"></a></li> --->
 	</ul>
 </p>
-
-</br>

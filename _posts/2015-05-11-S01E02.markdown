@@ -3,7 +3,7 @@ layout:     post
 title:      "S01E02"
 subtitle:   "Obrigações Morais"
 date:       2015-05-11 12:00:00
-header-img: "img/post-bg-06.jpg"
+header-img: "img/post-s01e02.jpg"
 comments: true
 ---
 

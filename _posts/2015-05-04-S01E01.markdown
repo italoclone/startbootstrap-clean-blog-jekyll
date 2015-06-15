@@ -17,8 +17,8 @@ comments: true
 
 <p>
 	<ul>
-		<li><a href="http://www.imdb.com/title/tt0760311/?ref_=nv_sr_1">A Fúria (He Was a Quiet Man)</a> Filme indicado pelo Italo (que errou o ator)</li>
-		<li><a href="https://www.youtube.com/watch?v=6TsElhgMeXE&feature=youtu.be">8½</a> Cena de filme indicado pela Ju</li>
+		<li><a href="http://www.imdb.com/title/tt0760311/?ref_=nv_sr_1">A Fúria (He Was a Quiet Man)filme indicado pelo Italo (que errou o ator)</a></li>
+		<li><a href="https://www.youtube.com/watch?v=6TsElhgMeXE&feature=youtu.be">8½ cena de filme indicado pela Ju</a></li>
 		<li><a href="http://www.imdb.com/title/tt0120586/?ref_=fn_al_tt_1">A Outra História Americana (American History X)</a></li>
 		<li><a href="http://www.imdb.com/title/tt0081505/?ref_=fn_al_tt_1">O Iluminado (The Shining)</a></li>
 		<li><a href="http://www.imdb.com/title/tt0110632/?ref_=fn_al_tt_1">Assassinos por Natureza (Natural Born Killers)</a></li>

@@ -17,23 +17,41 @@ comments: true
 
 <p>
 	<ul>
-		<li><a href="http://pt.wikipedia.org/wiki/Os_Sete_H%C3%A1bitos_das_Pessoas_Altamente_Eficazes">Os Sete Hábitos das Pessoas Altamente Eficazes (Stephen R. Covey)</a></li>
-		<li><a href="http://www.imdb.com/title/tt0386676/?ref_=nv_sr_1">The Office</a></li>
-		<li><a href="http://www.imdb.com/title/tt0412142/?ref_=nv_sr_2">Dr. House (House M.D.)</a></li>
-		<li><a href="https://www.youtube.com/watch?v=6pQmeIqsvSg">Seinfeld and Kramer finally get to "see the baby"</a></li>
-		<li><a href="http://www.imdb.com/title/tt2576852/?ref_=fn_al_tt_1">O Conto da Princesa Kaguya</a></li>
-		<li><a href="https://instagram.com/chapolinoficial/">Chapolin Sincero</a></li>
-		<li><a href=""></a></li>
-		<li><a href=""></a></li>
-		<li><a href=""></a></li>
-		<li><a href=""></a></li>
-		<li><a href=""></a></li>
-
-
-
+		<li><a href="http://pt.wikipedia.org/wiki/Os_Sete_H%C3%A1bitos_das_Pessoas_Altamente_Eficazes" target="_blank">Os Sete Hábitos das Pessoas Altamente Eficazes (Stephen R. Covey)</a></li>
+		<li><a href="http://www.imdb.com/title/tt0386676/?ref_=nv_sr_1" target="_blank">The Office</a></li>
+		<li><a href="http://www.imdb.com/title/tt0412142/?ref_=nv_sr_2" target="_blank">Dr. House (House M.D.)</a></li>
+		<li><a href="https://www.youtube.com/watch?v=6pQmeIqsvSg" target="_blank">Seinfeld and Kramer finally get to "see the baby"</a></li>
+		<li><a href="http://www.imdb.com/title/tt2576852/?ref_=fn_al_tt_1" target="_blank">O Conto da Princesa Kaguya</a></li>
+		<li><a href="https://instagram.com/chapolinoficial/" target="_blank">Chapolin Sincero</a></li>
 		<!--- <li><a href=""></a></li> --->
 	</ul>
 </p>
+
+</br>
+
+<p>Escutar agora:
+<audio controls>
+	<source src="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3" type="audio/ogg" />
+	<source src="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249010/download/6/file_128kb.m4a" type="audio/mpeg" />
+	<a href="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/5/file_128kb.mp3">horse</a>
+</audio>
+<a href="https://podcastmachine.com/podcasts/18465/episodes/107011/media_files/249009/download/3/file_128kb.mp3">Download do episódio</a> 
+</p>
+
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+
+
+
+
 
 
 

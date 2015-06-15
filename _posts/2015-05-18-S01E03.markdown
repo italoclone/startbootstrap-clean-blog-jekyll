@@ -25,13 +25,13 @@ comments: true
 <h2 class="section-heading">Links</h2>
 <p>
 	<ul>
-		<li><a href="http://www.acimadetudooamor.com.br/olivro.php">Acima de Tudo Amor</a></li>
-		<li><a href="https://en.wikipedia.org/wiki/Homeschooling">Homeschooling</a></li>
-		<li><a href="http://www.imdb.com/title/tt0470752/?ref_=fn_al_tt_1">Ex Machina</a></li>
-		<li><a href="http://hackncast.org/">Hack'n'Cast</a></li>
-		<li><a href="http://portalmod.com/home">MOD</a></li>
-		<li><a href="http://pt.wikipedia.org/wiki/Daredevil_(s%C3%A9rie_de_televis%C3%A3o)">Demolidor (Daredevil)</a></li>
-		<!--- <li><a href=""></a></li> --->
+		<li><a href="http://www.acimadetudooamor.com.br/olivro.php" target="_blank">Acima de Tudo Amor</a></li>
+		<li><a href="https://en.wikipedia.org/wiki/Homeschooling" target="_blank">Homeschooling</a></li>
+		<li><a href="http://www.imdb.com/title/tt0470752/?ref_=fn_al_tt_1" target="_blank">Ex Machina</a></li>
+		<li><a href="http://hackncast.org/" target="_blank">Hack'n'Cast</a></li>
+		<li><a href="http://portalmod.com/home" target="_blank">MOD</a></li>
+		<li><a href="http://pt.wikipedia.org/wiki/Daredevil_(s%C3%A9rie_de_televis%C3%A3o)" target="_blank">Demolidor (Daredevil)</a></li>
+		<!--- <li><a href=""  target="_blank"></a></li> --->
 	</ul>
 </p>
 

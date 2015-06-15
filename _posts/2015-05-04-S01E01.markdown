@@ -36,8 +36,5 @@ comments: true
 		<li><a href="http://www.imdb.com/title/tt0169547/?ref_=fn_al_tt_1" target="_blank">Beleza Americana (American Beauty)</a></li>
 		<li><a href="https://www.youtube.com/watch?v=4PkcfQtibmU" target="_blank">Foo Fighters. Walk.</a></li>
 		<li><a href="http://informatica.mercadolivre.com.br/teclado-de-silicone" target="_blank">Teclados de Silicone</a></li>
-		<!--- <a href=""></a> --->
 	</ul>
 </p>
-
-</br>

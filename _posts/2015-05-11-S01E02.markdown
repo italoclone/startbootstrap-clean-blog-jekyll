@@ -32,8 +32,7 @@ comments: true
 		<li><a href="https://www.youtube.com/watch?v=6pQmeIqsvSg" target="_blank">Seinfeld and Kramer finally get to "see the baby"</a></li>
 		<li><a href="http://www.imdb.com/title/tt2576852/?ref_=fn_al_tt_1" target="_blank">O Conto da Princesa Kaguya</a></li>
 		<li><a href="https://instagram.com/chapolinoficial/" target="_blank">Chapolin Sincero</a></li>
-		<!--- <li><a href=""></a></li> --->
+		<!--- <li><a href=""  target="_blank"></a></li> --->
 	</ul>
 </p>
 
-</br>

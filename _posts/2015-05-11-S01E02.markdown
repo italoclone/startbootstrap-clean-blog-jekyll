@@ -1,11 +1,42 @@
 ---
 layout:     post
 title:      "S01E02"
-subtitle:   "Um Dia de Fúria, Falling Down"
+subtitle:   "Obrigações Morais"
 date:       2015-05-11 12:00:00
 header-img: "img/post-bg-06.jpg"
 comments: true
 ---
+
+<p>No episódio de hoje vamos falar daquelas regrinhas, aquelas coisas chatas que temos que fazer, quando não temos a mínima vontade de fazer.</p>
+
+<p>Nossa turminha Carol Costa, Italo Queiroz e Ju Brauner debatem Moralidade X Ética e se metem em muitas confusões</p>
+
+<p>Passem a Bola, espalhem o Tatubola pelo mundo!</p>
+
+<h2 class="section-heading">Links</h2>
+
+<p>
+	<ul>
+		<li><a href="http://pt.wikipedia.org/wiki/Os_Sete_H%C3%A1bitos_das_Pessoas_Altamente_Eficazes">Os Sete Hábitos das Pessoas Altamente Eficazes (Stephen R. Covey)</a></li>
+		<li><a href="http://www.imdb.com/title/tt0386676/?ref_=nv_sr_1">The Office</a></li>
+		<li><a href="http://www.imdb.com/title/tt0412142/?ref_=nv_sr_2">Dr. House (House M.D.)</a></li>
+		<li><a href="https://www.youtube.com/watch?v=6pQmeIqsvSg">Seinfeld and Kramer finally get to "see the baby"</a></li>
+		<li><a href="http://www.imdb.com/title/tt2576852/?ref_=fn_al_tt_1">O Conto da Princesa Kaguya</a></li>
+		<li><a href="https://instagram.com/chapolinoficial/">Chapolin Sincero</a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+		<li><a href=""></a></li>
+
+
+
+		<!--- <li><a href=""></a></li> --->
+	</ul>
+</p>
+
+
+
 
 <p>Player HTML simples</p>
 

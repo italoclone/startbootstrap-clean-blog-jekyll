@@ -2,7 +2,7 @@
 layout: page
 description: "Sabemos como começa, mas nunca como termina"
 ---
-<ul>
+
 {% for post in paginator.posts %}
 	<div class="post-preview">
 		<li><a href="{{ post.url | prepend: site.baseurl }}">
@@ -14,7 +14,7 @@ description: "Sabemos como começa, mas nunca como termina"
 	</div>
 <hr>
 {% endfor %}
-<ul>
+
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">

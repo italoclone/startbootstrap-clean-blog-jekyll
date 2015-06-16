@@ -6,9 +6,9 @@ description: "Sabemos como começa, mas nunca como termina"
 {% for post in paginator.posts %}
 	<div class="post-preview">
 		<a href="{{ post.url | prepend: site.baseurl }}">
-			<h2 class="post-title">{{ post.title }}</h2>
+			<h2 class="post-title"><center>{{ post.title }}</center></h2>
 			{% if post.subtitle %}
-				<h3 class="post-subtitle">{{ post.subtitle }}</h3>
+				<h3 class="post-subtitle"><center>{{ post.subtitle }}</center></h3>
 			{% endif %}
 		</a>
 		<!-- Removido informação de data e quem postou-->

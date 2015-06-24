@@ -7,10 +7,10 @@ header-img: "img/post-s01e03.jpg"
 comments: true
 ---
 
-<p>Seja bem vindo à toca do Tatu. Aqui nós vamos bater um papo descontraído sobre os assuntos mais relevantes para toda a gente e cagar muita regra por que, afinal, estamos na toca.</p>
-<p>Por isso, você querido Tatu e querida Tatua fique a vontade para entrar, abrir a geladeira e por o pé no sofá que a gente já vai começar!</p>
+<p>Seja bem vindo à Toca do Tatu. Aqui nós vamos bater um papo descontraído sobre os assuntos mais relevantes para toda a gente e cagar muita regra por que, afinal, estamos na Toca.</p>
+<p>Por isso, você querido tatu e querida tatua fique a vontade para entrar, abrir a geladeira e por o pé no sofá que a gente já vai começar!</p>
 
-<p>Passem a Bola, espalhem o Tatubola pelo mundo!</p>
+<p>Passem a bola, espalhem o Tatubola pelo mundo!</p>
 
 <p>Escutar agora:</p>
 

@@ -12,6 +12,6 @@ facebook_username: tatubolapodcast
 # Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: none
+permalink: pretty
 paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

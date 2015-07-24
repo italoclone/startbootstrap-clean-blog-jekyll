@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "S01E06"
+subtitle:   "Divagações sobre imagens e mídia"
+date:       2015-07-17 12:00:00
+header-img: "img/post-s01e06.png"
+comments: true
+---
+
+<p>Qual sua tribo? Que roupas você usa no trabalho? Tem tatuagem? Pinta o cabelo? Tá gordo? Tá magro? Não importa suas respostas, você estará sempre sendo julgado pela imagem que você passa ou tenta passar.</p>
+
+<p>Carol Costa, Ju Brauner e Ítalo Queiroz debatem sobre a importância da imagem na nossa sociedade, filosofam sobre como seria se a imagem não fosse o principal sentido e até divagam sobre se realmente compramos produtos apenas pela embalagem.</p>
+
+<p>Então sai da sua toca e vem pra nossa, que estamos cheios de cagação de regra das imagens que passamos pelas redes sociais, que tipo de coisas as empresas tentam nos passar, como os políticos transmitem imagens para os eleitores e muito, muito mais!</p>
+
+<p>Passem a bola, espalhem o Tatubola pelo mundo!</p>
+
+<p>Escutar agora:</p>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216205543&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+<h2 class="section-heading">Links</h2>
+<p>
+	<ul>
+		<li><a href="https://pt.wikipedia.org/wiki/Imagem"  target="_blank">Imagem, segundo Wikipedia</a></li>
+		<li><a href="http://www.npr.org/programs/invisibilia/378577902/how-to-become-batman"  target="_blank">Invisibilia - How to become a batman</a></li>
+		<li><a href="https://www.youtube.com/watch?v=lA9XDctItAk"  target="_blank">Filme “Perfume”</a></li>
+		<li><a href="https://www.youtube.com/watch?v=AhRbX4qRt8I"  target="_blank">Soy Ty Ayre (o site não existe mais, ams tem um video no youtube que da pra ver mais ou menos como era)</a></li>
+		<li><a href="http://www.mercadolivreiro.com.br/produto.aspx?id=2486522"  target="_blank">A Máquina de Narciso</a></li>
+		<li><a href="http://www.brasilpost.com.br/2015/07/06/coca-cola-rotulos-preconceito_n_7736488.html"  target="_blank">Coca-Cola remove os rótulos das latinhas contra preconceito</a></li>
+		<li><a href="https://www.pinterest.com/carolcostapp/"  target="_blank">Pinterest da Carol</a></li>
+		<li><a href="https://www.pinterest.com/jubrauner/"  target="_blank">Pinterest da Ju</a></li>
+		<li><a href="https://www.youtube.com/watch?v=sUYJYoiFuus"  target="_blank">Coronhada (video)</a></li>
+		<li><a href="https://www.youtube.com/watch?v=CGr5xh7KG10"  target="_blank">Seu Madruga de professor “Perigo”</a></li>
+		<!--- <li><a href=""  target="_blank"></a></li> --->
+	</ul>
+
+</p>

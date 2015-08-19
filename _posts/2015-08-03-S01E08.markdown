@@ -26,7 +26,7 @@ comments: true
 	<li>Curtir o <a href="http://on.fb.me/1KwgCDz"  target="_blank">post da promoção</a></li>
 	<li>Comentar “eu quero”</li>
 </ul>
-<p>Mais detalhes do post do Facebook</p>
+<p>Mais detalhes do <a href="http://on.fb.me/1KwgCDz"  target="_blank">post do Facebook</a></p>
 <p></p>
 
 <h2 class="section-heading">Links</h2>

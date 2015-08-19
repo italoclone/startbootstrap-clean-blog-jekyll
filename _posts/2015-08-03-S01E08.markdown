@@ -22,8 +22,8 @@ comments: true
 
 <p>Para participar, você precisa:</p>
 <ul>
-	<li>Curtir a página Tatubola Podcast</li>
-	<li>Curtir o post da promoção</li>
+	<li>Curtir a página <a href="https://www.facebook.com/tatubolapodcast"  target="_blank">Tatubola Podcast</a></li>
+	<li>Curtir o <a href="http://on.fb.me/1KwgCDz"  target="_blank">post da promoção</a></li>
 	<li>Comentar “eu quero”</li>
 </ul>
 <p>Mais detalhes do post do Facebook</p>

@@ -53,3 +53,7 @@ comments: true
 	</ul>
 
 </p>
+
+<p>créditos:</p>
+<p>http://www.looperman.com/loops</p>
+<p>http://www.freesfx.co.uk/</p>

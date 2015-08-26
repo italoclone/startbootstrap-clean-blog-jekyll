@@ -1,0 +1,50 @@
+---
+layout:     post
+title:      "S01E09"
+subtitle:   "Toca do Tatu - An Honest Liar, Soylent e O Pequeno Príncipe"
+date:       2015-08-26 12:00:00
+header-img: "img/post-s01e03.jpg"
+comments: true
+---
+<p>Seja bem vindo à Toca do Tatu. Aqui nós vamos bater um papo descontraído sobre os assuntos mais relevantes para toda a gente e cagar muita regra por que, afinal, estamos na Toca.</p>
+
+<p>Nessa toca de hoje vamos falar sobre como as pessoas gostam de ser enganadas, como visto no documentário An Honest Liar e sobre a sustentabilidade e o desenvolvimento do Soylent.
+Damos a dica do novo filme do Pequeno Príncipe e lembrando que temos um SORTEIO ACONTECENDO de ingressos do filme Expresso do Amanhã! Participe:<a href="https://goo.gl/acMgGJ"  target="_blank">https://goo.gl/acMgGJ</a>
+</p>
+
+<p>Então fique a vontade para entrar, abrir a geladeira, por o pé no sofá e dar o play!</p>
+
+<p>Passem a bola, espalhem o Tatubola pelo mundo!</p>
+
+<p>Escutar agora:</p>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221009433&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+<h2 class="section-heading">Promoção</h2>
+
+<p>Para participar, você precisa:</p>
+<ul>
+	<li>Curtir a página <a href="https://www.facebook.com/tatubolapodcast"  target="_blank">Tatubola Podcast</a></li>
+	<li>Curtir o <a href="http://on.fb.me/1KwgCDz"  target="_blank">post da promoção</a></li>
+	<li>Comentar “eu quero”</li>
+</ul>
+<p>Mais detalhes do <a href="http://on.fb.me/1KwgCDz"  target="_blank">post do Facebook</a></p>
+<p></p>
+
+
+
+<h2 class="section-heading">Links</h2>
+<p>
+	<ul>
+		<li><a href="http://adoteumgatinho.org.br/"  target="_blank">Adote um Gatinho</a></li>
+		<li><a href="https://www.youtube.com/watch?v=okeVv_MQLTk"  target="_blank">O Expresso do Amanhã</a></li>
+		<li><a href="http://goo.gl/vP5BPz"  target="_blank">O Perfuraneves</a></li>
+		<li><a href="http://anhonestliar.com/"  target="_blank">An Honest Liar</a></li>
+		<li><a href="https://www.soylent.com/"  target="_blank">Soylent</a></li>
+		<li><a href="http://www.vivendodaluz.com/PT/articles/processo21dias.html"  target="_blank">Viver de luz</a></li>
+		<li><a href="http://exame.abril.com.br/tecnologia/noticias/cientistas-descobrem-alga-que-tem-gosto-de-bacon-e-faz-bem"  target="_blank">Alga com gosto de bacon</a></li>
+		<li><a href="https://www.youtube.com/watch?v=7WoO-luLshk"  target="_blank">O Pequeno Príncipe</a></li>
+		<!--- <li><a href=""  target="_blank"></a></li> --->
+	</ul>
+
+</p>

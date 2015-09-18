@@ -8,6 +8,9 @@ url: "http://tatubola.net"
 twitter_username: tatubolapodcast
 #github_username: italoclone
 facebook_username: tatubolapodcast
+soundcloud_username: tatubola
+link_itunes: https://geo.itunes.apple.com/br/podcast/tatubola/id1008227182?mt=2&uo=6
+link_android: http://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:151170013/sounds.rss
 
 # Build settings
 markdown: kramdown

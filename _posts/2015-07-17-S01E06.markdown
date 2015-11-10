@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "S01E06"
+title:      "#06"
 subtitle:   "Divagações sobre imagens e mídia"
 date:       2015-07-17 12:00:00
 header-img: "img/post-s01e06.png"

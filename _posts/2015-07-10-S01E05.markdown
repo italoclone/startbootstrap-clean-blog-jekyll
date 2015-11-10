@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "S01E05"
-subtitle:   "Toca do Tatu"
+title:      "#05"
+subtitle:   "Toca do Tatu - The Wall, Asterios Polyp e Gandhi"
 date:       2015-07-10 12:00:00
 header-img: "img/post-s01e03.jpg"
 comments: true
@@ -25,7 +25,7 @@ comments: true
 		<li><a href="http://www.companhiadasletras.com.br/detalhe.php?codigo=65031"  target="_blank">Asterios Polyp</a></li>
 		<li><a href="http://popster.com.br/gandhi-uma-biografia-em-manga.html"  target="_blank">Gandhi - Uma biografia em mangá</a></li>
 		<li><a href="http://www.wired.com/2015/06/emojitrendy-slang-whole-new-language/"  target="_blank">Emoji—Trendy Slang or a Whole New Language?</a></li>
-		<li><a href="https://www.apple.com/br/music/"  target="_blank">Apple Music</a></li>	
+		<li><a href="https://www.apple.com/br/music/"  target="_blank">Apple Music</a></li>
 	</ul>
 
 </p>

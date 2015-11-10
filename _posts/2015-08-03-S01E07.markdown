@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "S01E07"
+title:      "#07"
 subtitle:   "Toca do Tatu - Cãominhada, Thaila Ayala e Coursera"
 date:       2015-08-03 12:00:00
 header-img: "img/post-s01e03.jpg"

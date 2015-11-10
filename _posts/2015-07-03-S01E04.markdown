@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "S01E04"
+title:      "#04"
 subtitle:   "São Paulo e Suas Zonas"
 date:       2015-07-03 12:00:00
 header-img: "img/post-s01e04.jpg"

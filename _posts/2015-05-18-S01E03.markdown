@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "S01E03"
-subtitle:   "Toca do Tatu"
+title:      "#03"
+subtitle:   "Toca do Tatu - Acima de Tudo Amor, Ex Machina, MOD, Demolidor"
 date:       2015-05-18 12:00:00
 header-img: "img/post-s01e03.jpg"
 comments: true

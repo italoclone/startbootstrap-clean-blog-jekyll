@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "S01E01"
+title:      "#01"
 subtitle:   "Um Dia de Fúria"
 date:       2015-05-04 12:00:00
 header-img: "img/post-s01e01.jpg"

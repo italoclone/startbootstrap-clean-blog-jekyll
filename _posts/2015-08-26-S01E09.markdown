@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "S01E09"
+title:      "#09"
 subtitle:   "Toca do Tatu - An Honest Liar, Soylent e O Pequeno Príncipe"
 date:       2015-08-26 12:00:00
 header-img: "img/post-s01e03.jpg"

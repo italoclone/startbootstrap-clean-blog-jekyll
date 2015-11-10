@@ -16,5 +16,9 @@ link_android: http://subscribeonandroid.com/feeds.soundcloud.com/users/soundclou
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+#problema de paginacao
+paginate: 15
+gems: [jekyll-paginate]
+paginate_path: "page:num"

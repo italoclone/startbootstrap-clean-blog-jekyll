@@ -1,0 +1,42 @@
+---
+layout:     post
+title:      "#10"
+subtitle:   "Lourenço Mutarelli"
+date:       2015-11-11 12:00:00
+header-img: "img/post-10.jpg"
+comments: true
+---
+
+<p>O Tatubola Podcast está de volta!</p>
+
+<p>Ficamos esse tempo ausentes pesquisando, aprendendo e elaborando assuntos interessantes e pautas divertidas para trazer para vocês!</p>
+
+<p>Para começar essa nova temporada de um jeito bem louco, vamos falar sobre as obras de um cara que mexe com os lados mais obscuros e  obsessivos das pessoas: Lourenço Mutarelli.</p>
+
+<p>Então sai da sua toca e vem pra nossa, que hoje temos muitos livros, HQs e filmes pra comentar!
+
+<p>Passem a bola, espalhem o Tatubola pelo mundo!</p>
+
+<p>Escutar agora:</p>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232582617&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+
+<h2 class="section-heading">Links</h2>
+<p>
+	<ul>
+    <li><a href="https://www.youtube.com/watch?v=Dffs46VCJ_g"  target="_blank">Que Horas ela volta?</a></li>
+		<li><a href="https://www.youtube.com/watch?v=Nrf6R1nwSxM"  target="_blank">Quando eu era vivo</a></li>
+		<li><a href="http://www.companhiadasletras.com.br/detalhe.php?codigo=13148 "  target="_blank">Quando meu pai se encontrou com um ET fazia um dia quente</a></li>
+		<li><a href="http://goo.gl/Dt4rSa"  target="_blank">Nada me faltará</a></li>
+		<li><a href="http://goo.gl/z6J64Q"  target="_blank">Miguel e os Demônios</a></li>
+		<li><a href="http://goo.gl/zc5GXU"  target="_blank">A Arte de Produzir efeito sem causa</a></li>
+		<li><a href="http://goo.gl/g1vb4g"  target="_blank">O Natimorto (livro)</a></li>
+		<li><a href="https://www.youtube.com/watch?v=6yXE6WLvov8"  target="_blank">O Natimorto (filme)</a></li>
+		<li><a href="http://goo.gl/nJoSVf"  target="_blank">O Cheiro do Ralo (livro)</a></li>
+		<li><a href="https://www.youtube.com/watch?v=stbFpnslHxk"  target="_blank">O Cheiro do Ralo  (filme)</a></li>
+
+		<!--- <li><a href=""  target="_blank"></a></li> --->
+	</ul>
+
+</p>

@@ -13,7 +13,7 @@ link_itunes: https://geo.itunes.apple.com/br/podcast/tatubola/id1008227182?mt=2&
 link_android: http://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:151170013/sounds.rss
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 highlighter: pygments
 permalink: pretty
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

@@ -7,20 +7,20 @@ header-img: "img/post-16.jpg"
 comments: 	true
 ---
 
-Voltamos, e dessa vez vamos com Italo Queiroz, Ju Brauner e Carol Costa para entrar um pouco na mente humana, convidamos o Mathias Glens para nos ajudar a entender a Pirâmide de Maslow, conceito importante para varias areas como publicidade, administração, recursos humanos e muitas outras.
+<p>Voltamos, e dessa vez vamos com Italo Queiroz, Ju Brauner e Carol Costa para entrar um pouco na mente humana, convidamos o Mathias Glens para nos ajudar a entender a Pirâmide de Maslow, conceito importante para varias areas como publicidade, administração, recursos humanos e muitas outras.</p>
 
-Passem a bola, espalhem o Tatubola pelo mundo e deixem para nós seu comentário!
+<p>Passem a bola, espalhem o Tatubola pelo mundo e deixem para nós seu comentário!</p>
 
-Escutar agora:
+<p>Escutar agora:</p>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255005889&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-##Links
-- [Wikipédia](https://pt.wikipedia.org/wiki/Hierarquia_de_necessidades_de_Maslow){:target="_blank"}
-- [Documentario Happy, esta no netflix](){:target="_blank"}
-- [Por uma utilização mais crítica das redes sociais](http://psibr.com.br/colunas/mathias-glens/por-uma-utilizacao-mais-critica-das-redes-sociais){:target="_blank"}
-- [Twitter Mathias](https://twitter.com/GlensMathias){:target="_blank"}
-- [Dia de volta às aulas é o que mais tem suicídio de jovens no Japão](http://www.bbc.com/portuguese/noticias/2015/09/150901_japao_aulas_ebc){:target="_blank"}
+<h2 class="section-heading">Links<h2>
+*[Wikipédia](https://pt.wikipedia.org/wiki/Hierarquia_de_necessidades_de_Maslow){:target="_blank"}
+*[Documentario Happy, esta no netflix](){:target="_blank"}
+*[Por uma utilização mais crítica das redes sociais](http://psibr.com.br/colunas/mathias-glens/por-uma-utilizacao-mais-critica-das-redes-sociais){:target="_blank"}
+*[Twitter Mathias](https://twitter.com/GlensMathias){:target="_blank"}
+*[Dia de volta às aulas é o que mais tem suicídio de jovens no Japão](http://www.bbc.com/portuguese/noticias/2015/09/150901_japao_aulas_ebc){:target="_blank"}
 
 
-##Comentários
+<h2 class="section-heading">Comentários<h2>

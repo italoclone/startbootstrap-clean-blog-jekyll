@@ -14,7 +14,7 @@ link_android: http://subscribeonandroid.com/feeds.soundcloud.com/users/soundclou
 
 # Build settings
 #markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
